@@ -1,7 +1,7 @@
 # AI 100x Software Engineering Research Lab
 
 - [中文版本](#中文版本)
-- [英文版本](#english-version)
+- [English Version](#english-version)
 
 ## 中文版本
 
