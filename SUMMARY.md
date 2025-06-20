@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AI 百倍軟工研究組織 (AI100xSE)](README.md)
+* [AI 軟工百倍研究組織 (AI100xSE)](README.md)
 
 ## Obligations & Rules <a href="#rules" id="rules"></a>
 
