@@ -7,7 +7,7 @@
 
 ### 評核要點
 - 使用 Gherkin 語法撰寫
-- 條列清楚的 1. `Title & Description`和 2. Scenarios 描述 （  `Given / When / Then` )
+- 條列清楚的 1. `Title / Description`和 2. Scenarios 描述 （  `Given / When / Then` )
 - 須符合軟體開發邏輯，可被開發人員與 AI 理解與執行
 - 題目需具備實用性與通用性，方便後續研究延伸
 
