@@ -40,7 +40,7 @@
          ```
 3.  將上述貼文截圖（任務結尾提交審核時，會要求你提供此截圖）
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

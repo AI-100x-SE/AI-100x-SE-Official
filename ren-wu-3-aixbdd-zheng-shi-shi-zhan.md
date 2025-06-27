@@ -203,7 +203,11 @@
         Then the game is not over just from that capture
 
     ```
-2. 請你確定 AI 有通過所有 Scenario 對應的測試案例，請截圖所有測試案例通過的 Cucumber report 截圖。
+2.  請你確定 AI 有通過所有 Scenario 對應的測試案例，請截圖所有測試案例通過的 Cucumber report 截圖，看起來就像這樣：
+
+    ![](.gitbook/assets/image.png)
+
+
 
 ### 任務結束&#x20;
 
