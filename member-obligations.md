@@ -8,7 +8,7 @@
 
 ## 二、入會門檻
 
-每位欲加入本組織之成員，須完成 [participation-modes.md](quick-start/participation-modes.md "mention")中指定的入會辦法。
+每位欲加入本組織之成員，須完成 [participation-modes.md](join-quest/participation-modes.md "mention")中指定的入會辦法。
 
 ## 三、正式成員福利與義務
 
