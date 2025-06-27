@@ -205,7 +205,7 @@
     ```
 2.  請你確定 AI 有通過所有 Scenario 對應的測試案例，請截圖所有測試案例通過的 Cucumber report 截圖，看起來就像這樣：
 
-    ![](.gitbook/assets/image.png)
+    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
