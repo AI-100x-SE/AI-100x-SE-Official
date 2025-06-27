@@ -18,8 +18,9 @@ description: AI 軟工百倍研究組織
 1. 99% 的人，仍然過度強調「與 AI 協作的過程」。強調如何下 Prompt、陪 AI 寫 Code、改 Code、修 Code。但是，你是否想過你到底希望 AI Agent 「完整代理」什麼？如果是代你寫 code，那為什麽需要你在旁邊監督？
 2. 99% 的組織，仍然不敢花夠時間訂定「明確的系統需求脈絡及驗收規格」。你是否想過，如果沒有「需求的完整脈絡 (Context)」 能讓 AI 直接參照，那麼你又要如何期待 AI 像人類一樣獨立工作？
 
-<mark style="background-color:blue;">❌ 所以，真正高效的 Vibe Coding 不是「跟 AI 一起寫 Code」</mark>\ <mark style="background-color:blue;">✅ 而是：「定義好超清楚的規格 → 丟給 AI → 你轉頭去做別的事」</mark>\
+<mark style="background-color:blue;">❌ 所以，真正高效的 Vibe Coding 不是「跟 AI 一起寫 Code」</mark>
 
+<mark style="background-color:blue;">✅ 而是：「定義好超清楚的規格 → 丟給 AI → 你轉頭去做別的事」</mark>
 
 ## Vibe Coding 的正解 — 行為驅動開發 (BDD)
 
@@ -33,8 +34,7 @@ description: AI 軟工百倍研究組織
 
 * 別人還在反覆下 prompt 試錯時，會 BDD 的人早就已經先苦後甘，早已定義好「 90 條驗收測試」、「整個專案的實體及關聯表」、「API 規格文件」，並透過「BDD 完整 SOP」命令 AI 照著行為驅動開發——5 小時內 AI 就能搞定 20 個 API、90 條 E2E 測試。
 * AI 開發過程你完全不用管，因為有明確規格，AI 自己驗證、自己修正。
-* 所以你能同時跑好幾個專案，開發平行度提高，產能就直接放大 10 倍、100 倍。\
-
+* 所以你能同時跑好幾個專案，開發平行度提高，產能就直接放大 10 倍、100 倍。\\
 
 這才叫 AI Agent：你訂好任務，AI 自動幹活，你就可以去倒咖啡、規劃更重要的事。
 
