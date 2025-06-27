@@ -1,4 +1,4 @@
-# 任務 3 - AI x BDD 正式實戰
+# 任務 3 - AI x BDD 全自動開發挑戰
 
 ### 任務指示
 
@@ -207,8 +207,12 @@
 
     <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+### 任務結語
 
+在執行此挑戰時，應該會開始感受到 AI Assistant 的限制，如果你希望 AI 能夠嚴格遵照 BDD 開發流程依序完成每一道 scenario 的開發，那麼就會發現 AI Assistant 可能會偶爾停下來等待人類的指示，或是很偶爾時會不小心會在錯誤的時機跳進去實作，而不是等測試寫完之後再實作，因此並無法每次都能直接可靠地完整的全自動化開發。
+
+是的，在面對更複雜的需求，好比上百道情境的需求時，代表方法絕對還有超大的改進空間，本任務提供的做法只是一種體驗而已。
 
 ### 任務結束&#x20;
 
-完成此任務後，立即執行下一個任務即可： [ren-wu-4-aixbdd-shi-zhan.md](ren-wu-4-aixbdd-shi-zhan.md "mention")
+完成此任務後，立即執行下一個任務即可： [ren-wu-4-aixbdd-zi-you-xi-tong-shi-zhan.md](ren-wu-4-aixbdd-zi-you-xi-tong-shi-zhan.md "mention")

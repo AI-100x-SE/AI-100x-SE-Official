@@ -21,5 +21,5 @@
 ***
 
 * [任務 2 - 分享出去](ren-wu-2-fen-xiang-chu-qu.md)
-* [任務 3 - AI x BDD 正式實戰](ren-wu-3-aixbdd-zheng-shi-shi-zhan.md)
-* [任務 4 - AI x BDD 實戰](ren-wu-4-aixbdd-shi-zhan.md)
+* [任務 3 - AI x BDD 全自動開發挑戰](ren-wu-3-aixbdd-quan-zi-dong-kai-fa-tiao-zhan.md)
+* [任務 4 - AI x BDD 自由系統實戰](ren-wu-4-aixbdd-zi-you-xi-tong-shi-zhan.md)
