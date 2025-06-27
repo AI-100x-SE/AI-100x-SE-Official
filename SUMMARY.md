@@ -15,4 +15,4 @@
 
 * [入會方式二選一：無課玩家 vs. 課金玩家](quick-start/participation-modes.md)
 * [入會限時任務 - 遊戲規則](quick-start/join-quest-1.md)
-* [入會限時任務 1 - AI x BDD 快速上手](quick-start/join-quest-2.md)
+* [入會限時任務（練習 1）- AI x BDD 快速上手](quick-start/join-quest-2.md)
