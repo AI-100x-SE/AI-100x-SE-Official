@@ -13,6 +13,6 @@
 
 ## 入會任務 <a href="#join-quest" id="join-quest"></a>
 
-* [入會方式二選一：無課玩家 vs. 課金玩家](join-quest/participation-modes.md)
-* [入會限時任務 - AI x BDD 實戰上手](join-quest/join-quest-1.md)
-* [入會限時任務 1](join-quest/join-quest-2.md)
+* [入會方式二選一：無課玩家 vs. 課金玩家](quick-start/participation-modes.md)
+* [入會限時任務 - 遊戲規則](quick-start/join-quest-1.md)
+* [入會限時任務 1 - AI x BDD 快速上手](quick-start/join-quest-2.md)
