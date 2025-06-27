@@ -13,6 +13,6 @@
 
 ## 新手上路 <a href="#quick-start" id="quick-start"></a>
 
-* [選擇你的參與方式：無課玩家 vs. 課金玩家](quick-start/participation-modes.md)
+* [入會方式二選一：無課玩家 vs. 課金玩家](quick-start/participation-modes.md)
 * [入會限時任務 - AI x BDD 實戰上手](quick-start/join-quest-1.md)
 * [入會限時任務 1](quick-start/join-quest-2.md)
