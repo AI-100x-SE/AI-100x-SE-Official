@@ -14,5 +14,5 @@
 ## 新手上路 <a href="#quick-start" id="quick-start"></a>
 
 * [選擇你的參與方式：無課玩家 vs. 課金玩家](quick-start/participation-modes.md)
-* [新手任務 1](quick-start/join-quest-1.md)
+* [新手任務 - AI x BDD 實戰上手](quick-start/join-quest-1.md)
 * [新手任務 2](quick-start/join-quest-2.md)
