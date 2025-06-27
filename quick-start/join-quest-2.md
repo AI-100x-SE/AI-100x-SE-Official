@@ -2,7 +2,7 @@
 
 ### 練習 1 - 感受一下 AI x BDD 軟體全自動化開發的基本運作
 
-1. 下載並解壓縮 <mark style="color:yellow;">AI 軟工百倍：入會任務 1.zip</mark>
+1. 下載此 [Github 目錄（訂單優惠模組）](https://github.com/Waterball-Limited-Company/AI-100x-SE-Official/tree/main/%E5%85%A5%E6%9C%83%E4%BB%BB%E5%8B%99/%E8%A8%82%E5%96%AE%E5%84%AA%E6%83%A0%E6%A8%A1%E7%B5%84)下的所有檔案
 2. 開啟你的 AI Assistant (Cursor, Windsurf, Claude Code, ...)。
 3.  在專案目錄下執行底下的 Prompt 來感受一下 AI x BDD 的運行方式：
 
