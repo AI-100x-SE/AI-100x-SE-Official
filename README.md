@@ -1,15 +1,23 @@
 ---
-description: AI 軟工百倍研究組織
+description: AI 軟工百倍研究組織（水球軟體學院所經營的社群活動）
 ---
 
 # AI 軟工百倍研究組織 (AI100xSE)
 
 * [中文版本](./#中文版本)
-* [English Version](./#english-version)
 
-## 中文版本
+水球軟體學院的使命很簡單，就是讓全台灣的軟體開發企業都導入 AI x BDD（行為驅動開發）的全自動化軟體開發的實踐，如此一來台灣軟體產業就能彎道超車。
 
-今年三月開始，Vibe Coding 在網路上爆紅，各種分享文、教學影片如雨後春筍。
+「如果大家都關注 AI x BDD 這個方法，台灣軟工進度就有機會超前國外；\
+當國外 AI 軟工都只會寫 rules 時，我們就已經全部都在寫 spec，產值絕對百倍。」
+
+——因此，我們稱此計劃及組織為「AI 軟工百倍研究組織」。
+
+## 中文介紹
+
+### Vibe Coding 的問題：99% 的實踐都缺乏「工程效率」
+
+2025 年三月開始，Vibe Coding 在網路上爆紅，各種分享文、教學影片如雨後春筍。
 
 但說實話——99% 的人，在 Vibe Coding 上的實踐，其實都嚴重缺乏「工程效率」。
 
@@ -41,56 +49,3 @@ description: AI 軟工百倍研究組織
 這才是工程師該有的高品質氛圍開發，不是和 AI 對話到懷疑人生。
 
 在 AI 時代下，追求的不是「快」，而是開發的「平行度」！
-
-## English Version
-
-Since this March, Vibe Coding has exploded online—countless articles and tutorials have sprung up like mushrooms after the rain.
-
-But let’s be honest—99% of people practicing Vibe Coding seriously lack **engineering efficiency**.
-
-If you’re afraid of letting AI **replace** you, you'll never discover the most efficient AI Agent engineering method!
-
-1. **99% of people** still focus too much on _“collaborating with AI.”_ They obsess over crafting prompts, tweaking AI-generated code, and fixing bugs. But have you ever asked yourself what you truly want the AI Agent to fully handle? If it’s meant to write code for you, why do you need to micromanage it?
-2. **99% of teams** still don’t invest enough time in defining **clear system context and acceptance criteria**. But without giving AI the complete context to refer to, how can you expect it to operate independently like a human?
-
-***
-
-❌ So real high-efficiency Vibe Coding is **not** "co-writing code with AI"\
-✅ It's: "**Define crystal-clear specs → Feed them to AI → Go do something else**"
-
-***
-
-### The Real Solution for Vibe Coding — Behavior-Driven Development (BDD)
-
-Behavior-Driven Development (BDD) is a _surprisingly underused_ software engineering methodology that solves the **core pain points** of Vibe Coding.
-
-#### What is BDD?
-
-> "It’s writing **human-readable, executable specifications** in natural language (Chinese or English) to directly drive software development."
-
-If you combine AI with BDD, your output will grow **exponentially**:
-
-While others are still fumbling with prompt after prompt, BDD practitioners have already defined:
-
-* 90 acceptance test cases
-* the full data model and relationships
-* complete API specifications
-
-Then, with a **solid BDD workflow**, they command the AI to follow the specs. In just **5 hours**, the AI can finish:
-
-* 20 API endpoints
-* 90 end-to-end tests
-
-You don’t even need to oversee the AI—because the specs are so clear, the AI **self-validates** and **self-corrects**.
-
-That’s why you can run **multiple projects in parallel**, massively increasing output by **10x, even 100x**.
-
-This is what an AI Agent should be: you define the mission, the AI executes it—while you grab a coffee or focus on strategic work.
-
-**That’s the true “vibe” of engineering in the AI era.**\
-Not chatting with AI until you question your life choices.
-
-***
-
-In the age of AI, the goal is not just to move “faster” —\
-It’s to **scale your development in parallel.**
