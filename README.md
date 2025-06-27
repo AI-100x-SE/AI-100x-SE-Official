@@ -1,5 +1,5 @@
 ---
-description: 百倍軟工研究組織
+description: AI 軟工百倍研究組織
 ---
 
 # AI 軟工百倍研究組織 (AI100xSE)
