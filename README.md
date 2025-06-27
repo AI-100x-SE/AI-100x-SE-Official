@@ -1,5 +1,5 @@
 ---
-description: AI 軟工百倍研究組織（水球軟體學院所經營的社群活動）
+description: AI 軟工百倍研究組織
 ---
 
 # AI 軟工百倍研究組織 (AI100xSE)
