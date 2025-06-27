@@ -2,7 +2,7 @@
 description: 入會限時任務 - 練習 1
 ---
 
-# 入會限時任務 1 - AI x BDD 快速上手
+# 任務 1 - AI x BDD 快速上手
 
 ### 過程中若有任何疑問，請至[研究員交流區](https://discord.com/channels/1295275227848249364/1384107447018590372)發問。
 
@@ -62,4 +62,8 @@ description: 入會限時任務 - 練習 1
 2. 請將上述優惠規則寫成 Feature file（每個範例都是一道情境）。
 3. 接著，你需要使用上述的 BDD Prompt 的做法，直接以「結果導向」的方式來讓 AI 幫你直接支援雙十一優惠的請求。
 4. 請將練習完之後的心得分享至：[https://discord.com/channels/1295275227848249364/1384107447018590372](https://discord.com/channels/1295275227848249364/1384107447018590372)
+
+### 任務結束
+
+完成此任務後，立即執行下一個任務即可： [ren-wu-3-aixbdd-zheng-shi-shi-zhan.md](../ren-wu-3-aixbdd-zheng-shi-shi-zhan.md "mention")
 

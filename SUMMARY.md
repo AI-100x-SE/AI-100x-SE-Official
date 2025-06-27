@@ -15,4 +15,11 @@
 
 * [入會方式二選一：無課玩家 vs. 課金玩家](quick-start/participation-modes.md)
 * [入會限時任務 - 遊戲規則](quick-start/join-quest-1.md)
-* [入會限時任務（練習 1）- AI x BDD 快速上手](quick-start/join-quest-2.md)
+* [任務 0 - 閱讀速成 AI x BDD 教學文件](join-quest/ren-wu-0-yue-du-su-cheng-aixbdd-jiao-xue-wen-jian.md)
+* [任務 1 - AI x BDD 快速上手](quick-start/join-quest-2.md)
+
+***
+
+* [任務 2 - 分享出去](ren-wu-2-fen-xiang-chu-qu.md)
+* [任務 3 - AI x BDD 正式實戰](ren-wu-3-aixbdd-zheng-shi-shi-zhan.md)
+* [任務 4 - AI x BDD 實戰](ren-wu-4-aixbdd-shi-zhan.md)
