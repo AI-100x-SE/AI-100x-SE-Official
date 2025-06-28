@@ -16,7 +16,7 @@
 
 ### 福利
 
-1. 可存取水球於「[AI 時代的 1% 工程師：用「行為驅動開發 (BDD)」 實現百倍效率的 Vibe Coding](https://www.accupass.com/biz/event/2506110435103759406480) 」這門課中所頒布的方法論及所有相關研究。水球會以特定方式持續揭露其近三個月之前的研究。
+1. 可存取水球於「[AI 時代的 1% 工程師：用「行為驅動開發 (BDD)」 實現百倍效率的 Vibe Coding](https://www.accupass.com/event/2506110435103759406480?fbclid=IwY2xjawLMm0RleHRuA2FlbQIxMABicmlkETE3UDhraUg0Q01DcFBmazVyAR6eBXjhPAQH4LyMACFx6gxyz6VcELpt8k8RUxnjZdixqf5czSo7bEICjxHljg_aem_r2r1cIMgdYks3XdYLWOAFA) 」這門課中所頒布的方法論及所有相關研究。水球會以特定方式持續揭露其近三個月之前的研究。
 2. 全體成員共享所有研究最新知識以及所有實驗脈絡文獻：本組織會維護一個私有的 Github Repository，所有正式成員皆能存取其完整內容，裡面將儲存所有正式成員合力貢獻的實驗及研究文獻。
 
 ### 義務

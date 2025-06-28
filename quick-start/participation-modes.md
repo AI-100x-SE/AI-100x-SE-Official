@@ -18,7 +18,7 @@
 * **好處：**
   * 能夠自主決定研究方向及方式，不必接受他人方法的過度灌輸。
   * 能存取組織所有資源，以及參與所有組織討論及學習活動。
-  * 可存取水球於「[AI 時代的 1% 工程師：用「行為驅動開發 (BDD)」 實現百倍效率的 Vibe Coding](https://www.accupass.com/biz/event/2506110435103759406480) 」這門課中所頒布的方法論及所有相關研究。水球會以特定方式持續揭露其近三個月之前的研究。
+  * 可存取水球於「[AI 時代的 1% 工程師：用「行為驅動開發 (BDD)」 實現百倍效率的 Vibe Coding](https://www.accupass.com/event/2506110435103759406480?fbclid=IwY2xjawLMm0RleHRuA2FlbQIxMABicmlkETE3UDhraUg0Q01DcFBmazVyAR6eBXjhPAQH4LyMACFx6gxyz6VcELpt8k8RUxnjZdixqf5czSo7bEICjxHljg_aem_r2r1cIMgdYks3XdYLWOAFA) 」這門課中所頒布的方法論及所有相關研究。水球會以特定方式持續揭露其近三個月之前的研究。
 
 ### 二、課金玩家
 
