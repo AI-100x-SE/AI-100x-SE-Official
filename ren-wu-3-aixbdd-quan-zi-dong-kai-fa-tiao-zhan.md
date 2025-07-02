@@ -215,4 +215,6 @@
 
 ### 任務結束&#x20;
 
-完成此任務後，立即執行下一個任務即可： [ren-wu-4-aixbdd-zi-you-xi-tong-shi-zhan.md](ren-wu-4-aixbdd-zi-you-xi-tong-shi-zhan.md "mention")
+完成此任務之後，就可以提交入會審核囉！
+
+[https://forms.gle/5Ch8cLVmUnuWKdZU9](https://forms.gle/5Ch8cLVmUnuWKdZU9)
