@@ -17,34 +17,34 @@
 1. 選擇一個你想像分享的管道：臉書 / Instagram / Threads
 2. 在此管道上發布一則新的貼文，分享你在任務 1 中見證到 AI x BDD 力量後的心得。
    1. 範例心得：
-      1. ```
-         參加水球軟體學院所舉行的「AI 軟工百倍研究組織」，收穫很多！
-         入會後就會立刻教你如何透過「行為驅動開發 (BDD)」來用「結果導向」的方式與 AI 合作。
+      1. 報名連結記得可以附上：[https://forms.gle/6YWytdes1dAcQE6XA](https://forms.gle/6YWytdes1dAcQE6XA)，但是不要給予此 gitbook 入口。
+      2.  ```
+          參加水球軟體學院所舉行的「AI 軟工百倍研究組織」，收穫很多！
+          入會後就會立刻教你如何透過「行為驅動開發 (BDD)」來用「結果導向」的方式與 AI 合作。
 
-         什麼叫結果導向？
-         基本上就是指「我只控制結果，過程完全不理」的 AI 分工方法。
+          什麼叫結果導向？
+          基本上就是指「我只控制結果，過程完全不理」的 AI 分工方法。
 
-         如果你過度在乎 AI 的開發過程，
-         這樣每當 AI 做錯一步時就會過度緊張
-         反而用不上 AI 所有能力！
+          如果你過度在乎 AI 的開發過程，
+          這樣每當 AI 做錯一步時就會過度緊張
+          反而用不上 AI 所有能力！
 
-         BDD 這種把需求定義好之後，讓 AI 自己找到對的程式碼的這種方式
-         真的會讓程式碼可靠很多
+          BDD 這種把需求定義好之後，讓 AI 自己找到對的程式碼的這種方式
+          真的會讓程式碼可靠很多
 
-         不過這一條路要做到全自動化的話，還得繼續和水球軟體學院的研究夥伴們繼續前進
-         歡迎大家來報名喔！
+          不過這一條路要做到全自動化的話，還得繼續和水球軟體學院的研究夥伴們繼續前進
+          歡迎大家來報名喔！
 
-         AI 軟工百倍研究組織入口：https://waterballsa.gitbook.io/ai-100x-se
+          AI 軟工百倍研究組織報名表單：https://forms.gle/6YWytdes1dAcQE6XA
 
 
-         ```
+          ```
+
+
 3.  將上述貼文截圖（任務結尾提交審核時，會要求你提供此截圖）
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 任務結束
 
 完成此任務後，立即執行下一個任務即可： [ren-wu-3-aixbdd-quan-zi-dong-kai-fa-tiao-zhan.md](ren-wu-3-aixbdd-quan-zi-dong-kai-fa-tiao-zhan.md "mention")
-
