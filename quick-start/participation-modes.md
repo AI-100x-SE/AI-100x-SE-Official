@@ -16,22 +16,19 @@
   * 每月至少參與一次社群討論或讀書會，並分享個人研究進展與成果。
   * 若未如期完成任務，將視為暫停資格，需繳交 NT$300 會費重新啟動參與權。
 * **好處：**
-  * 能夠自主決定研究方向及方式，不必接受他人方法的過度灌輸。
   * 能存取組織所有資源，以及參與所有組織討論及學習活動。
-  * 可存取水球於「[AI 時代的 1% 工程師：用「行為驅動開發 (BDD)」 實現百倍效率的 Vibe Coding](https://www.accupass.com/event/2506110435103759406480?fbclid=IwY2xjawLMm0RleHRuA2FlbQIxMABicmlkETE3UDhraUg0Q01DcFBmazVyAR6eBXjhPAQH4LyMACFx6gxyz6VcELpt8k8RUxnjZdixqf5czSo7bEICjxHljg_aem_r2r1cIMgdYks3XdYLWOAFA) 」這門課中所頒布的方法論及所有相關研究。水球會以特定方式持續揭露其近三個月之前的研究。
 * **入會做法：**
   * **照著此報名表單的步驟指示完成：**[**https://forms.gle/AFzuWijsu9MHZ1Ws5**](https://forms.gle/AFzuWijsu9MHZ1Ws5)
 
 ### 二、課金玩家
 
-<mark style="background-color:green;">我沒空、也不夠自律，但我又想要享有組織學習環境及所有知識福利，因此我要直接課金終生入會。</mark>
+<mark style="background-color:green;">**我沒空、也不夠自律，但我又想要享有組織學習環境及所有知識福利，因此我要直接課金終生入會。**</mark>
 
-* **適合對象：** 希望能不對生活增加額外壓力，想直接付錢買水球帶領的超高含金量速成知識課程以及享有終生成員資格的人。
+* **適合對象：** 希望能不在時間管理上有太多壓力，覺得自己沒空付諸每月義務，想直接付錢購買水球老師帶領的超高含金量速成知識課程以及享有終生成員資格的人。
 * **好處：**
   * 如果你不想靠自己的能力自主研究，想要直接獲得相關能力、速成落地的話，這門課保證成效。
   * 上完課就能獲得永久研究組織終生參與資格。
-* **入會做法：直接購買底下兩門課程之一，即可獲得終生入會資格**
-  * [AI 時代的 1% 工程師：用「行為驅動開發 (BDD)」 實現百倍效率的 Vibe Coding （實體場）](https://www.accupass.com/event/2506110435103759406480)
-  * [AI 時代的 1% 工程師：用「行為驅動開發 (BDD)」 實現百倍效率的 Vibe Coding （線上場）](https://www.accupass.com/event/2506160524377577825710)
+* **入會做法：直接購買底下線上課程，即可獲得終生入會資格**
+  * [AI x BDD：規格驅動全自動開發術 by 水球潘老師](https://waterballsa.tw/ai-bdd/)
 
 ***
