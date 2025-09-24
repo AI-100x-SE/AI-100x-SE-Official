@@ -8,7 +8,6 @@
 
 ***
 
-* [賞金執行辦法](bounty-policy.md)
 * [成員義務](member-obligations.md)
 
 ## 入會任務 <a href="#join-quest" id="join-quest"></a>
