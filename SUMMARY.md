@@ -1,10 +1,10 @@
 # Table of contents
 
-* [AI 軟工百倍研究組織 (AI100xSE)](README.md)
+* [臺灣規格驅動開發研究組織 (SDD.TW)](README.md)
 
 ## Obligations & Rules <a href="#rules" id="rules"></a>
 
-* [組織目的及規範](rules/org-purpose-rules.md)
+* [組織目的及規範ㄨ](rules/org-purpose-rules.md)
 
 ***
 
