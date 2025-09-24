@@ -4,7 +4,7 @@
 
 ## Obligations & Rules <a href="#rules" id="rules"></a>
 
-* [組織目的及規範ㄨ](rules/org-purpose-rules.md)
+* [組織目的及規範](rules/org-purpose-rules.md)
 
 ***
 
